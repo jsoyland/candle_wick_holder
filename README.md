@@ -1,2 +1,3 @@
-# candle_wick_holder
-3-Wick Holder for Candle Making
+# 3-Wick Holder For Candle Making
+
+Holds wicks in place while making 3-wick candles.
